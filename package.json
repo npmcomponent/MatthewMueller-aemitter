@@ -1,12 +1,11 @@
 {
-  "name": "aemitter",
+  "name": "matthewmueller-aemitter",
+  "description": "asynchronous emitter",
   "version": "0.0.1",
-  "description": "async emitter",
-  "main": "index.js",
-  "devDependencies" : {
-    "mocha" : "*",
-    "should" : "*"
-  },
-  "author": "Matt Mueller",
+  "keywords": [
+    "emitter",
+    "async"
+  ],
+  "dependencies": {},
   "license": "MIT"
 }
